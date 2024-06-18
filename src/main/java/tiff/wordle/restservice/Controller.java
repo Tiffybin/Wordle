@@ -27,6 +27,7 @@ public class Controller {
     private int i = -1;
 
     int numGuesses = 0;
+    //"Hello"
 
     ArrayList<String> list2;
 
